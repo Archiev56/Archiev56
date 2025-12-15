@@ -1,139 +1,148 @@
 <!-- ========================= -->
-<!-- GitHub Profile README -->
-<!-- Username: Archiv56 -->
+<!-- Archiv56 | Profile Dashboard -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Archiv56</h1>
-<h3 align="center">Developer | Problem Solver | Lifelong Learner</h3>
+<h1 align="center">Archiv56</h1>
+<h3 align="center">Developer Dashboard</h3>
 
 <p align="center">
-  <a href="https://github.com/Archiv56">
-    <img src="https://komarev.com/ghpvc/?username=Archiv56&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Archiv56&label=Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 👤 About Me
+## 🧩 Overview
 
-- 💻 Passionate about software development and technology
-- 🌱 Currently learning and improving my skills in modern tools and frameworks
-- 🧠 Interested in clean code, system design, and performance
-- 🚀 Always building, experimenting, and optimizing
-- 📍 Based somewhere on Earth 🌍
+<table>
+<tr>
+<td width="50%">
 
----
+### 👤 About
+- 💻 Software Developer
+- 🚀 Project-driven learner
+- 🧠 Focused on clean, scalable systems
+- 🌱 Constantly improving
 
-## 🧰 Tech Stack
+</td>
+<td width="50%">
 
-### 💻 Languages
-- Python
-- JavaScript
-- TypeScript
-- C / C++
-- Java
+### ⚡ Status
+- 🔭 Working on personal projects
+- 📚 Learning advanced concepts
+- 🧪 Experimenting with tools
+- 🛠 Improving Git workflow
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- React
-- Tailwind CSS
-
-### 🛠 Backend
-- Node.js
-- Express
-- REST APIs
-
-### 🗄 Databases
-- MongoDB
-- PostgreSQL
-- SQLite
-
-### ⚙ Tools & Platforms
-- Git & GitHub
-- Docker
-- Linux
-- VS Code
-- CI/CD (GitHub Actions)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Project Name
-> Short description of what the project does and what problem it solves.
-
-- 🛠 Tech: Python, Flask, PostgreSQL
-- ⭐ Key features:
-  - Feature one
-  - Feature two
-  - Feature three
-- 🔗 Repo: https://github.com/Archiv56/project-name
-
----
-
-### 🔹 Another Project
-> One-line explanation with focus on impact.
-
-- 🛠 Tech: JavaScript, Node.js, MongoDB
-- 🔗 Repo: https://github.com/Archiv56/another-project
-
----
-
-## 📊 GitHub Stats
+## 📈 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archiv56&show_icons=true&theme=default" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archiv56&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiv56&layout=compact" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archiv56&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🧠 Tech Stack Dashboard
 
-- ⭐ Contributed to open-source projects
-- 🧪 Built multiple personal and experimental projects
-- 📈 Consistently improving problem-solving skills
-- 🔍 Strong focus on code quality and maintainability
+<table>
+<tr>
+<td align="center"><strong>Languages</strong></td>
+<td align="center"><strong>Frontend</strong></td>
+<td align="center"><strong>Backend</strong></td>
+<td align="center"><strong>Tools</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+
+Python<br/>
+JavaScript<br/>
+TypeScript<br/>
+C++
+
+</td>
+<td align="center">
+
+HTML<br/>
+CSS<br/>
+React<br/>
+Tailwind
+
+</td>
+<td align="center">
+
+Node.js<br/>
+Express<br/>
+REST APIs
+
+</td>
+<td align="center">
+
+Git<br/>
+Docker<br/>
+Linux<br/>
+VS Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## 🗂 Project Board
 
-- Advanced algorithms & data structures
-- System design fundamentals
-- Cloud computing
-- Security best practices
+<table>
+<tr>
+<td width="33%">
+
+### 🔹 Project One
+**Status:** 🟢 Active  
+**Stack:** Python  
+[Repo →](https://github.com/Archiv56/project-one)
+
+</td>
+<td width="33%">
+
+### 🔹 Project Two
+**Status:** 🟡 WIP  
+**Stack:** JavaScript  
+[Repo →](https://github.com/Archiv56/project-two)
+
+</td>
+<td width="33%">
+
+### 🔹 Project Three
+**Status:** 🔵 Maintained  
+**Stack:** C++  
+[Repo →](https://github.com/Archiv56/project-three)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Interests
-
-- Software architecture
-- Automation
-- Open-source
-- Performance optimization
-- Cybersecurity
-
----
-
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/Archiv56
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## 📝 Philosophy
-
-> *"Write code as if the next person to maintain it is a psychopath who knows where you live."*
-
----
+## 🧪 Metrics
 
 <p align="center">
-  🚀 Thanks for visiting my profile! Feel free to check out my repositories and connect.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiv56&layout=compact&hide_border=true" />
 </p>
+
+---
+
+## 🧠 Knowledge Map
+
+```text
+Algorithms ████████░░
+System Design ██████░░░░
+Databases █████░░░░░░
+DevOps ████░░░░░░░░
+Security ███░░░░░░░░░
