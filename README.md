@@ -92,13 +92,6 @@ VS Code
 
 ---
 
-## 🧪 Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiv56&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 🧠 Knowledge Map
 
