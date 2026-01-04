@@ -2,7 +2,7 @@
 <!-- Archiv56 | Profile Dashboard -->
 <!-- ========================= -->
 
-<h1 align="center">Archiv56</h1>
+<h1 align="center">Archiev56</h1>
 <h3 align="center">Developer Dashboard</h3>
 
 <p align="center">
@@ -18,19 +18,16 @@
 <td width="50%">
 
 ### 👤 About
-- 💻 Software Developer
-- 🚀 Project-driven learner
-- 🧠 Focused on clean, scalable systems
-- 🌱 Constantly improving
+- 💻 Data Analyst
+- 🚀 Technical Scout 
+- 🌱 Godot Developer
 
 </td>
 <td width="50%">
 
 ### ⚡ Status
-- 🔭 Working on personal projects
-- 📚 Learning advanced concepts
-- 🧪 Experimenting with tools
-- 🛠 Improving Git workflow
+- 🔭 Head Scout & Data Analyst at Bristol Rovers Women's 
+- 📚 MSc Distinction in Data Science at UWE Bristol 
 
 </td>
 </tr>
@@ -53,31 +50,16 @@
 <td align="center">
 
 Python<br/>
-JavaScript<br/>
-TypeScript<br/>
-C++
-
-</td>
-<td align="center">
-
-HTML<br/>
-CSS<br/>
-React<br/>
-Tailwind
-
-</td>
-<td align="center">
-
-Node.js<br/>
-Express<br/>
-REST APIs
+SQL<br/>
+R<br/>
+GDscript
 
 </td>
 <td align="center">
 
 Git<br/>
-Docker<br/>
-Linux<br/>
+Godot<br/>
+Google Analytics<br/>
 VS Code
 
 </td>
@@ -92,26 +74,18 @@ VS Code
 <tr>
 <td width="33%">
 
-### 🔹 Project One
-**Status:** 🟢 Active  
+### 🔹 ML Investigation into the Marketability of Football Players
+**Status:** 🟢 Completed - Distinction  
 **Stack:** Python  
-[Repo →](https://github.com/Archiv56/project-one)
+[Repo →]((https://github.com/Archiev56/16025252---Code-repo))
 
 </td>
 <td width="33%">
 
-### 🔹 Project Two
-**Status:** 🟡 WIP  
-**Stack:** JavaScript  
-[Repo →](https://github.com/Archiv56/project-two)
+### 🔹 Study into the valuation methods of Football Players
+**Status:** 🟡 Completed  
+**Stack:** Python  
 
-</td>
-<td width="33%">
-
-### 🔹 Project Three
-**Status:** 🔵 Maintained  
-**Stack:** C++  
-[Repo →](https://github.com/Archiv56/project-three)
 
 </td>
 </tr>
@@ -130,8 +104,8 @@ VS Code
 ## 🧠 Knowledge Map
 
 ```text
-Algorithms ████████░░
-System Design ██████░░░░
-Databases █████░░░░░░
-DevOps ████░░░░░░░░
-Security ███░░░░░░░░░
+GDscript ████████░░
+Python   ██████░░░░
+SQL      █████░░░░░░
+R        ████░░░░░░░░
+
