@@ -42,8 +42,7 @@
 <tr>
 <td align="center"><strong>Languages</strong></td>
 <td align="center"><strong>Frontend</strong></td>
-<td align="center"><strong>Backend</strong></td>
-<td align="center"><strong>Tools</strong></td>
+
 </tr>
 
 <tr>
